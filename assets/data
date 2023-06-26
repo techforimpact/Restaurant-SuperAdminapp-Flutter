@@ -1,0 +1,10 @@
+for load images on web
+flutter run -d chrome --web-renderer html
+flutter build web --web-renderer html
+
+firebase deploy --only hosting:bitehub
+
+for change the deploy url
+firebase target:apply hosting prod url
+
+https://stackoverflow.com/questions/70204269/how-to-deploy-a-flutter-web-app-in-a-second-firebase-hosting

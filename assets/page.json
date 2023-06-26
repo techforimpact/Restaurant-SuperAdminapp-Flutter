@@ -1,0 +1,186 @@
+{
+  "page_intro": {
+    "title": "",
+    "description": ""
+  },
+  "page_projects": {
+    "title": "Projects & Packages & Others",
+    "projects": [
+      {
+        "image": "https://play-lh.googleusercontent.com/vh35oploxCWxBbUdrZcWwn4d3KSAQGQVf7tf8G93dX3Quul9bqCNX_HzGOjxWM4S4qL_=s180-rw",
+        "title": "GeoEmpleos v2",
+        "description": "Aplicación para Encontrar Trabajo Fácil, Rápido y Gratis! Por el Momento solo para Bolivia! Con la app de GeoEmpleos puedes buscar y publicar ofertas de empleos, inscribirte en los anuncios de trabajos que más te gusten. No dejes escapar tus oportunidades laborales. GeoEmpleos te ayuda a buscar trabajo de forma fácil desde tu móvil.",
+        "date_created": "2021",
+        "web": "https://geoempleos.com/"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bnbs2lKjf5jW5N9lbUlRvdCV1zrdoiovm_uT3eyiUnUXD5qRhrA4S54x_FB3eSiwBnc=s180-rw",
+        "title": "Radio India Online",
+        "description": "listen to Indian radios online Free!",
+        "date_created": "2021",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.radioapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bR7Sdrz8e5R5NL5c766LsniJWm7EqzTQS1QJO7MbtMAqfnIh9l04Bt5idkN-ic9YIcQ=s180-rw",
+        "title": "IDelivery Demo",
+        "description": "Demo de la aplicación para realizar pedidos (delivery)",
+        "date_created": "2020",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.deliveryapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/_6dCn6-UcDItYEu-JTZiw6XIb3VIR-OhjRBsEM_LidMFLSGQSnVDQEEr8NIcRgxLczE=s180-rw",
+        "title": "Educación Vial - Señales de Tránsito Bolivia",
+        "description": "Diviértete aprendiendo las Señales de Tránsito",
+        "date_created": "2018",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.educacionvial"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/VictorRancesCode/Esperanza/master/img/img2.png",
+        "title": "Esperanza",
+        "description": "Proyecto para ayudar a encontrar personas desaparecidas y...",
+        "date_created": "-",
+        "github": "https://github.com/VictorRancesCode/Esperanza"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/vh35oploxCWxBbUdrZcWwn4d3KSAQGQVf7tf8G93dX3Quul9bqCNX_HzGOjxWM4S4qL_=s180-rw",
+        "title": "GeoEmpleos v2",
+        "description": "Aplicación para Encontrar Trabajo Fácil, Rápido y Gratis! Por el Momento solo para Bolivia! Con la app de GeoEmpleos puedes buscar y publicar ofertas de empleos, inscribirte en los anuncios de trabajos que más te gusten. No dejes escapar tus oportunidades laborales. GeoEmpleos te ayuda a buscar trabajo de forma fácil desde tu móvil.",
+        "date_created": "2021",
+        "web": "https://geoempleos.com/"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bnbs2lKjf5jW5N9lbUlRvdCV1zrdoiovm_uT3eyiUnUXD5qRhrA4S54x_FB3eSiwBnc=s180-rw",
+        "title": "Radio India Online",
+        "description": "listen to Indian radios online Free!",
+        "date_created": "2021",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.radioapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bR7Sdrz8e5R5NL5c766LsniJWm7EqzTQS1QJO7MbtMAqfnIh9l04Bt5idkN-ic9YIcQ=s180-rw",
+        "title": "IDelivery Demo",
+        "description": "Demo de la aplicación para realizar pedidos (delivery)",
+        "date_created": "2020",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.deliveryapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/_6dCn6-UcDItYEu-JTZiw6XIb3VIR-OhjRBsEM_LidMFLSGQSnVDQEEr8NIcRgxLczE=s180-rw",
+        "title": "Educación Vial - Señales de Tránsito Bolivia",
+        "description": "Diviértete aprendiendo las Señales de Tránsito",
+        "date_created": "2018",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.educacionvial"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/VictorRancesCode/Esperanza/master/img/img2.png",
+        "title": "Esperanza",
+        "description": "Proyecto para ayudar a encontrar personas desaparecidas y...",
+        "date_created": "-",
+        "github": "https://github.com/VictorRancesCode/Esperanza"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/vh35oploxCWxBbUdrZcWwn4d3KSAQGQVf7tf8G93dX3Quul9bqCNX_HzGOjxWM4S4qL_=s180-rw",
+        "title": "GeoEmpleos v2",
+        "description": "Aplicación para Encontrar Trabajo Fácil, Rápido y Gratis! Por el Momento solo para Bolivia! Con la app de GeoEmpleos puedes buscar y publicar ofertas de empleos, inscribirte en los anuncios de trabajos que más te gusten. No dejes escapar tus oportunidades laborales. GeoEmpleos te ayuda a buscar trabajo de forma fácil desde tu móvil.",
+        "date_created": "2021",
+        "web": "https://geoempleos.com/"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bnbs2lKjf5jW5N9lbUlRvdCV1zrdoiovm_uT3eyiUnUXD5qRhrA4S54x_FB3eSiwBnc=s180-rw",
+        "title": "Radio India Online",
+        "description": "listen to Indian radios online Free!",
+        "date_created": "2021",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.radioapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bR7Sdrz8e5R5NL5c766LsniJWm7EqzTQS1QJO7MbtMAqfnIh9l04Bt5idkN-ic9YIcQ=s180-rw",
+        "title": "IDelivery Demo",
+        "description": "Demo de la aplicación para realizar pedidos (delivery)",
+        "date_created": "2020",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.deliveryapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/_6dCn6-UcDItYEu-JTZiw6XIb3VIR-OhjRBsEM_LidMFLSGQSnVDQEEr8NIcRgxLczE=s180-rw",
+        "title": "Educación Vial - Señales de Tránsito Bolivia",
+        "description": "Diviértete aprendiendo las Señales de Tránsito",
+        "date_created": "2018",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.educacionvial"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/VictorRancesCode/Esperanza/master/img/img2.png",
+        "title": "Esperanza",
+        "description": "Proyecto para ayudar a encontrar personas desaparecidas y...",
+        "date_created": "-",
+        "github": "https://github.com/VictorRancesCode/Esperanza"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/vh35oploxCWxBbUdrZcWwn4d3KSAQGQVf7tf8G93dX3Quul9bqCNX_HzGOjxWM4S4qL_=s180-rw",
+        "title": "GeoEmpleos v2",
+        "description": "Aplicación para Encontrar Trabajo Fácil, Rápido y Gratis! Por el Momento solo para Bolivia! Con la app de GeoEmpleos puedes buscar y publicar ofertas de empleos, inscribirte en los anuncios de trabajos que más te gusten. No dejes escapar tus oportunidades laborales. GeoEmpleos te ayuda a buscar trabajo de forma fácil desde tu móvil.",
+        "date_created": "2021",
+        "web": "https://geoempleos.com/"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bnbs2lKjf5jW5N9lbUlRvdCV1zrdoiovm_uT3eyiUnUXD5qRhrA4S54x_FB3eSiwBnc=s180-rw",
+        "title": "Radio India Online",
+        "description": "listen to Indian radios online Free!",
+        "date_created": "2021",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.radioapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bR7Sdrz8e5R5NL5c766LsniJWm7EqzTQS1QJO7MbtMAqfnIh9l04Bt5idkN-ic9YIcQ=s180-rw",
+        "title": "IDelivery Demo",
+        "description": "Demo de la aplicación para realizar pedidos (delivery)",
+        "date_created": "2020",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.deliveryapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/_6dCn6-UcDItYEu-JTZiw6XIb3VIR-OhjRBsEM_LidMFLSGQSnVDQEEr8NIcRgxLczE=s180-rw",
+        "title": "Educación Vial - Señales de Tránsito Bolivia",
+        "description": "Diviértete aprendiendo las Señales de Tránsito",
+        "date_created": "2018",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.educacionvial"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/VictorRancesCode/Esperanza/master/img/img2.png",
+        "title": "Esperanza",
+        "description": "Proyecto para ayudar a encontrar personas desaparecidas y...",
+        "date_created": "-",
+        "github": "https://github.com/VictorRancesCode/Esperanza"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/vh35oploxCWxBbUdrZcWwn4d3KSAQGQVf7tf8G93dX3Quul9bqCNX_HzGOjxWM4S4qL_=s180-rw",
+        "title": "GeoEmpleos v2",
+        "description": "Aplicación para Encontrar Trabajo Fácil, Rápido y Gratis! Por el Momento solo para Bolivia! Con la app de GeoEmpleos puedes buscar y publicar ofertas de empleos, inscribirte en los anuncios de trabajos que más te gusten. No dejes escapar tus oportunidades laborales. GeoEmpleos te ayuda a buscar trabajo de forma fácil desde tu móvil.",
+        "date_created": "2021",
+        "web": "https://geoempleos.com/"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bnbs2lKjf5jW5N9lbUlRvdCV1zrdoiovm_uT3eyiUnUXD5qRhrA4S54x_FB3eSiwBnc=s180-rw",
+        "title": "Radio India Online",
+        "description": "listen to Indian radios online Free!",
+        "date_created": "2021",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.radioapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/bR7Sdrz8e5R5NL5c766LsniJWm7EqzTQS1QJO7MbtMAqfnIh9l04Bt5idkN-ic9YIcQ=s180-rw",
+        "title": "IDelivery Demo",
+        "description": "Demo de la aplicación para realizar pedidos (delivery)",
+        "date_created": "2020",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.deliveryapp"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/_6dCn6-UcDItYEu-JTZiw6XIb3VIR-OhjRBsEM_LidMFLSGQSnVDQEEr8NIcRgxLczE=s180-rw",
+        "title": "Educación Vial - Señales de Tránsito Bolivia",
+        "description": "Diviértete aprendiendo las Señales de Tránsito",
+        "date_created": "2018",
+        "web": "https://play.google.com/store/apps/details?id=com.codigopanda.educacionvial"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/VictorRancesCode/Esperanza/master/img/img2.png",
+        "title": "Esperanza",
+        "description": "Proyecto para ayudar a encontrar personas desaparecidas y...",
+        "date_created": "-",
+        "github": "https://github.com/VictorRancesCode/Esperanza"
+      }
+    ]
+  }
+}
